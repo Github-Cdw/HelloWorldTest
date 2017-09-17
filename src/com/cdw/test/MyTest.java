@@ -3,8 +3,9 @@ package com.cdw.test;
 public class MyTest {
     public static void main(String[] args) {
         System.out.println("Hello GitHub Test");
+        System.out.println("Hello GitHub Test");
         String fozu =
-                "                   _ooOoo_"+"\n"+
+                        "                   _ooOoo_"+"\n"+
                         "                  o8888888o"+"\n"+
                         "                  88\" . \"88"+"\n"+
                         "                  (| -_- |)"+"\n"+
